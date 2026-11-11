@@ -12,3 +12,4 @@ A static website deployed to GitHub Pages with GitHub Actions.
 ## Live site
 
 https://hasitharao.github.io/gh-deployment-workflow/
+
