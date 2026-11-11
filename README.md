@@ -13,6 +13,6 @@ A static website deployed to GitHub Pages with GitHub Actions.
 
 https://hasitharao.github.io/gh-deployment-workflow/
 
+## Project URL
 
-Project URL: printf '\nProject URL: %s\n' "$(pbpaste)" >> README.md
-Project URL: https://roadmap.sh/projects/PASTE-THE-REST-HERE
+https://roadmap.sh/projects/github-actions-deployment-workflow
